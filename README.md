@@ -1,2 +1,18 @@
-# ai-resume-builder-agent
-Built an AI-powered Resume Builder and ATS Optimization tool using Python and Streamlit.  The system analyzes resumes, calculates ATS scores, and enhances content using AI for improved readability and keyword matching.  It supports resume upload or manual input, optional job description matching, and real-time score tracking.
+# AI-Powered Resume Builder & ATS Optimization Agent
+
+This project is a Streamlit-based AI agent that helps users optimize resumes for Applicant Tracking Systems (ATS).
+
+## Features
+- Resume PDF upload
+- Job Description-based ATS scoring
+- AI-powered resume enhancement using OpenAI
+- ATS score comparison (before vs after)
+- Live preview and feedback chat
+
+## Tech Stack
+- Python
+- Streamlit
+- OpenAI API
+
+## Deployment
+Deployed using Streamlit Community Cloud.
